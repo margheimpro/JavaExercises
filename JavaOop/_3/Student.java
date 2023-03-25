@@ -26,7 +26,6 @@ public class Student {
 
     // surname getter and setter
         public String getSurname () {
-
             return surname;
         }
 
