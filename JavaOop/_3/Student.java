@@ -85,7 +85,6 @@ public class Student {
     // howManyTimesHasBeenRejected getter
 
         int getHowManyTimeHasBeenRejected(){
-
             return this.howManyTimeHasBeenRejected;
         }
     }
