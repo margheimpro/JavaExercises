@@ -26,7 +26,6 @@ public class Student {
 
     // surname getter and setter
         public String getSurname () {
-
             return surname;
         }
 
@@ -85,7 +84,6 @@ public class Student {
     // howManyTimesHasBeenRejected getter
 
         int getHowManyTimeHasBeenRejected(){
-
             return this.howManyTimeHasBeenRejected;
         }
     }
